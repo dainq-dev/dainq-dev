@@ -3,7 +3,7 @@
 ## 💫 About Me:
 😄 I am a software engineer with nearly 3 years of experience, specializing in. Having also worked in back-end 
 positions, I have a comprehensive understanding of the software development lifecycle. I am passionate about 
-exploring and applying new technologies, always aiming to enhance my technical skills.
+exploring and applying new technologies, always aiming to enhance my technical skills.<br>
 🔭My long-term objective is to advance my career in the field of software development, with a particular aspiration to ascend to 
 the role of a “Senior Software Developer” within the next two years.
 
