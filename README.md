@@ -1,9 +1,9 @@
 <h1> <img width="43px" src="https://i.imgur.com/mQpRWAK.png">  </img> Hi, I'm Eric Nguyen !</h1>
 
 ## 💫 About Me:
-😄 I am a software engineer with nearly 3 years of experience, specializing in. <br>
-🌱 Having also worked in back-end positions, I have a comprehensive understanding of the software development lifecycle. <br>
-💬I am passionate about exploring and applying new technologies, always aiming to enhance my technical skills.<br>
+😄 I am a software engineer with nearly 3 years of experience, specializing in. Having also worked in back-end 
+positions, I have a comprehensive understanding of the software development lifecycle. I am passionate about 
+exploring and applying new technologies, always aiming to enhance my technical skills.
 🔭My long-term objective is to advance my career in the field of software development, with a particular aspiration to ascend to 
 the role of a “Senior Software Developer” within the next two years.
 
