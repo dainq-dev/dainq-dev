@@ -1,15 +1,15 @@
 <h1> <img width="43px" src="https://i.imgur.com/mQpRWAK.png">  </img> Hi, I'm Eric Nguyen !</h1>
 
 ## 💫 About Me:
-🔭 I am a software engineer with nearly 3 years of experience, specializing in. <br>🌱 Having also worked in back-end 
-positions, I have a comprehensive understanding of the software development lifecycle. <br>💬I am passionate about 
-exploring and applying new technologies, always aiming to enhance my technical skills.<br>⚡My long-term 
-objective is to advance my career in the field of software development, with a particular aspiration to ascend to 
+😄 I am a software engineer with nearly 3 years of experience, specializing in. <br>
+🌱 Having also worked in back-end positions, I have a comprehensive understanding of the software development lifecycle. <br>
+💬I am passionate about exploring and applying new technologies, always aiming to enhance my technical skills.<br>
+🔭My long-term objective is to advance my career in the field of software development, with a particular aspiration to ascend to 
 the role of a “Senior Software Developer” within the next two years.
+
 ## 🌱 Industry experience:<br>
-✨ Health care<br>
-✨ Management Systems<br>
-✨ Web company
+⚡ Health care<br>
+⚡ Management Systems<br>
 
 ## 💻 Tech Stack:<br>
 ✨ Languages Programming:
@@ -49,7 +49,7 @@ the role of a “Senior Software Developer” within the next two years.
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 <br>
 
-## 📫  Education:
+## 💬 Education:
 <strong>Ho Chi Minh City Industry and Trade College</strong> (2018 – 2022)<br>
 <strong>Major:</strong>  Information Technology
 
