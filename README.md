@@ -1,4 +1,4 @@
-<h1> <img width="43px" src="https://en.wikipedia.org/wiki/File:Flag_of_Vietnam.svg">  </img> Hi, I'm Nguyen Quoc Dai from Ho Chi Minh city, Vietnam !</h1>
+<h1>Hi, I'm Nguyen Quoc Dai</h1>
 
 ## 💫 About Me:
 😄 I am a software engineer with nearly 3 years of experience, specializing in. Having also worked in back-end 
