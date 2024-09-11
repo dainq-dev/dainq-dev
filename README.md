@@ -1,4 +1,4 @@
-<h1> <img width="43px" src="https://i.imgur.com/mQpRWAK.png">  </img> Hi, I'm Eric Nguyen !</h1>
+<h1> <img width="43px" src="https://i.imgur.com/mQpRWAK.png">  </img> Hi, I'm Nguyen Quoc Dai from Ho Chi Minh city, Vietnam :flag-vn: !</h1>
 
 ## 💫 About Me:
 😄 I am a software engineer with nearly 3 years of experience, specializing in. Having also worked in back-end 
