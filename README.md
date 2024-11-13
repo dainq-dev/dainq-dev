@@ -59,6 +59,6 @@ the role of a “Senior Software Developer” within the next two years.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dainq-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=eric-nguyen-fe&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dainq-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
