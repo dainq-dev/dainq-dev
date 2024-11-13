@@ -1,4 +1,4 @@
-<heading><h2>Hi, I'm Nguyen Quoc Dai</h2></heading>
+<h2>Hi, I'm Nguyen Quoc Dai</h2>
 
 ## 💫 About Me:
 😄 I am a software engineer with more 3 years of experience, specializing in. Having also worked in back-end 
