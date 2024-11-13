@@ -11,7 +11,7 @@ the role of a “Senior Software Developer” within the next two years.
 ⚡ Health care<br>
 ⚡ Management Systems<br>
 ⚡ Web booking<br>
-⚡ Web offical<br>
+⚡ Web official<br>
 ⚡ CRM<br>
 
 ## 💻 Tech Stack:<br>
