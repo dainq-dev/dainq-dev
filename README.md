@@ -10,7 +10,9 @@ the role of a “Senior Software Developer” within the next two years.
 ## 🌱 Industry experience:<br>
 ⚡ Health care<br>
 ⚡ Management Systems<br>
+⚡ Web booking<br>
 ⚡ Web offical<br>
+⚡ CRM<br>
 
 ## 💻 Tech Stack:<br>
 ✨ Languages Programming:
