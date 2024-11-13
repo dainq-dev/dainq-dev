@@ -54,8 +54,8 @@ the role of a “Senior Software Developer” within the next two years.
 
 ## 💬 Education:
 <strong>Ho Chi Minh City Industry and Trade College</strong> (2018 – 2022)<br>
-<strong>Major:</strong>  Information Technology <br><br>
-
+<strong>Major:</strong>  Information Technology <br>
+----------------------------//-------------------------
 <strong>Ho Chi Minh City University of Technology and Education</strong> (2024 – present)<br>
 <strong>Major:</strong>  Information Technology
 
