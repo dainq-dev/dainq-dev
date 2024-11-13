@@ -1,7 +1,7 @@
 <h1>Hi, I'm Nguyen Quoc Dai</h1>
 
 ## 💫 About Me:
-😄 I am a software engineer with nearly 3 years of experience, specializing in. Having also worked in back-end 
+😄 I am a software engineer with more 3 years of experience, specializing in. Having also worked in back-end 
 positions, I have a comprehensive understanding of the software development lifecycle. I am passionate about 
 exploring and applying new technologies, always aiming to enhance my technical skills.<br>
 🔭My long-term objective is to advance my career in the field of software development, with a particular aspiration to ascend to 
@@ -10,6 +10,7 @@ the role of a “Senior Software Developer” within the next two years.
 ## 🌱 Industry experience:<br>
 ⚡ Health care<br>
 ⚡ Management Systems<br>
+⚡ Web offical<br>
 
 ## 💻 Tech Stack:<br>
 ✨ Languages Programming:
