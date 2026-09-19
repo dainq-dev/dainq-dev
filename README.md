@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-dainq-fe.vercel.app/">
+  <a href="https://nguyen-quoc-dai-dev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:dainguyen020199@gmail.com">
@@ -50,11 +50,7 @@ publish runtime.
 -->
 
 ### 📜 Certifications
-
-<!-- TODO: điền tên chứng chỉ / tổ chức cấp / năm, ví dụ:
-- **AWS Certified Developer – Associate** — Amazon Web Services, 2024
--->
-
+- **AWS Certified Developer – Associate** — Amazon Web Services, 2026
 ---
 
 ### 📊 GitHub Stats
