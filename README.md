@@ -43,12 +43,6 @@ publish runtime.
 
 ---
 
-### 🎓 Education
-
-<!-- TODO: điền trường / ngành / năm, ví dụ:
-- **B.Sc. in Computer Science** — Tên trường, 2018–2022
--->
-
 ### 📜 Certifications
 - **AWS Certified Developer – Associate** — Amazon Web Services, 2026
 ---
