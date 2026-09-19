@@ -1,11 +1,11 @@
 <h1 >Hi, I'm Nguyen Quoc Dai 👋, Full-stack Developer</h1>
 
-<p align="center">
+<p>
   Building durable, well-architected web products — from a curated
   no-code website builder to production payment/release pipelines.
 </p>
 
-<p align="center">
+<p>
   <a href="https://nguyen-quoc-dai-dev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
@@ -19,7 +19,7 @@
 
 **Frontend / Mobile**
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -29,7 +29,7 @@
 
 **Backend**
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" />
@@ -40,7 +40,7 @@
 
 **Data / Infra**
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
