@@ -46,6 +46,10 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
+**Architecture** — microservices and modular monoliths, schema-per-domain
+boundaries, event-driven (outbox/inbox) integration, provider-neutral
+adapters for cloud portability.
+
 ---
 
 ### 🚀 Featured project
