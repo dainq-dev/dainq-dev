@@ -67,13 +67,60 @@ publish runtime.
 - **AWS Certified Developer – Associate** — Amazon Web Services, 2026
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dainq-dev&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dainq-dev&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dainq-dev&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dainq-dev&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dainq-dev&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dainq-dev&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dainq-dev&theme=flat&no-frame=true&no-bg=true&column=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dainq-dev&theme=github-compact&hide_border=true" alt="Contribution Activity Graph" width="100%" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/dainq-dev/PROJECT_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dainq-dev&repo=PROJECT_1&theme=default&hide_border=true" alt="Project 1" />
+  </a>
+  <a href="https://github.com/dainq-dev/PROJECT_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dainq-dev&repo=PROJECT_2&theme=default&hide_border=true" alt="Project 2" />
+  </a>
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,bun,postgres,docker,kubernetes,git,github,linux&perline=6" alt="Tech Stack" />
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/dainq-dev">
+    <img src="https://img.shields.io/badge/GitHub-dainq--dev-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
 </p>
