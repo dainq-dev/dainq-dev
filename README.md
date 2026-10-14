@@ -88,7 +88,7 @@ adapters for cloud portability.
 # 🛠️ Tech Stack
 
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,reactnative,expo,dart,flutter,nodejs,bun,hono,express,nestjs,go,postgres,redis,docker,kubernetes,helm,terraform,github,gitlab,githubactions,linux,nginx,prometheus,grafana&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,reactnative,expo,dart,flutter,nodejs,bun,hono,express,nestjs,go,postgres,redis,docker,kubernetes,helm,terraform,github,gitlab,githubactions,linux,nginx,prometheus,grafana&perline=16" alt="Tech Stack" />
 </p>
 
 ---
