@@ -136,7 +136,7 @@ publish runtime.
 # 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/dainq-dev">
+  <a href="https://nguyen-quoc-dai-dev.vercel.app/">
     <img src="https://img.shields.io/badge/GitHub-dainq--dev-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
