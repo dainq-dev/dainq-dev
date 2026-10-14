@@ -68,17 +68,6 @@ adapters for cloud portability.
 
 ---
 
-### 🚀 Featured project
-
-**[Curated Website Builder](https://github.com/dainq-dev/website-builder)** —
-a documentation-led Bun monorepo: creators assemble pages from a governed
-component catalog, publish through a durable provider-neutral release
-pipeline, and pay per component at publish time. Hono API, Next.js portals,
-PostgreSQL with schema-per-domain boundaries, VNPay settlement, AWS-backed
-publish runtime.
-
----
-
 ### 📜 Certifications
 - **AWS Certified Developer – Associate** — Amazon Web Services, 2026
 ---
@@ -96,39 +85,10 @@ publish runtime.
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dainq-dev&theme=flat&no-frame=true&no-bg=true&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dainq-dev&theme=github-compact&hide_border=true" alt="Contribution Activity Graph" width="100%" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/dainq-dev/PROJECT_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dainq-dev&repo=PROJECT_1&theme=default&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/dainq-dev/PROJECT_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dainq-dev&repo=PROJECT_2&theme=default&hide_border=true" alt="Project 2" />
-  </a>
-</p>
-
----
-
 # 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,bun,postgres,docker,kubernetes,git,github,linux&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,reactnative,expo,dart,flutter,nodejs,bun,hono,express,nestjs,go,postgres,redis,docker,kubernetes,helm,terraform,github,gitlab,githubactions,linux,nginx,prometheus,grafana&perline=6" alt="Tech Stack" />
 </p>
 
 ---
